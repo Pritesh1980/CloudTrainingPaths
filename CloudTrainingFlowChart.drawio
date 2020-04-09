@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-09T11:12:51.966Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="hWuUbAhtzJlC5vs57Tll" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-09T11:26:21.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Ol9zznxDdCW8ItDZBefi" version="12.9.3" type="github">
   <diagram id="Sj6mC85eFsHQs_d47GOQ" name="Page-1">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -80,8 +80,24 @@
         <mxCell id="-TDUfPAsjnN3atFshsbn-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;What are the Azure options?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="396" y="440" width="166" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-TDUfPAsjnN3atFshsbn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-20" target="-TDUfPAsjnN3atFshsbn-34">
+        <mxCell id="-TDUfPAsjnN3atFshsbn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-20" target="-TDUfPAsjnN3atFshsbn-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-20" target="-TDUfPAsjnN3atFshsbn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-48" value="Fundamentals" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="-TDUfPAsjnN3atFshsbn-46">
+          <mxGeometry x="0.0303" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-20" target="-TDUfPAsjnN3atFshsbn-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-49" value="Intermediate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="-TDUfPAsjnN3atFshsbn-47">
+          <mxGeometry x="-0.0155" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-TDUfPAsjnN3atFshsbn-20" value="&lt;font style=&quot;font-size: 20px&quot;&gt;What are the AWS options?&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="396" y="780" width="166" height="140" as="geometry" />
@@ -110,12 +126,6 @@
         <mxCell id="-TDUfPAsjnN3atFshsbn-22" value="&lt;font style=&quot;font-size: 20px&quot;&gt;AWS Fundamentals&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="695" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-TDUfPAsjnN3atFshsbn-24" value="Fundamentals" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-20" target="-TDUfPAsjnN3atFshsbn-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="572" y="640" as="sourcePoint" />
-            <mxPoint x="670" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-TDUfPAsjnN3atFshsbn-25" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;span&gt;Courses&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;a href=&quot;https://acloud.guru/learn/aws-technical-essentials&quot;&gt;AWS Technical Essentials [ACG]&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;a href=&quot;https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/&quot;&gt;AWS Cloud Practitioner Essentials [AWS]&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2;align=left;" vertex="1" parent="1">
           <mxGeometry x="855" y="640" width="170" height="130" as="geometry" />
         </mxCell>
@@ -137,12 +147,6 @@
         <mxCell id="-TDUfPAsjnN3atFshsbn-30" value="&lt;font style=&quot;font-size: 20px&quot;&gt;AWS Intermediate&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="1020" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-TDUfPAsjnN3atFshsbn-31" value="Intermediate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=-0.007;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-TDUfPAsjnN3atFshsbn-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="850" as="sourcePoint" />
-            <mxPoint x="670" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-TDUfPAsjnN3atFshsbn-32" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;span&gt;AWS Tutorials&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/getting-started/hands-on/run-serverless-code/&quot;&gt;Run a Serverless &quot;Hello World!&quot; [Lambda]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/getting-started/hands-on/create-nosql-table/&quot;&gt;Create and Query a NoSQL Table [DynamoDB]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/getting-started/hands-on/detect-analyze-compare-faces-rekognition/&quot;&gt;Detect, Analyze and Compare Faces [Rekognition]&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/getting-started/hands-on/translate-text-between-languages-cloud/&quot;&gt;Translate Text Between Languages in the Cloud [Transcribe]&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2;align=left;" vertex="1" parent="1">
           <mxGeometry x="855" y="1020" width="215" height="220" as="geometry" />
         </mxCell>
@@ -152,8 +156,35 @@
             <mxPoint x="865" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-34" target="-TDUfPAsjnN3atFshsbn-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-34" target="-TDUfPAsjnN3atFshsbn-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-TDUfPAsjnN3atFshsbn-34" value="&lt;font style=&quot;font-size: 20px&quot;&gt;What next?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="409" y="1210" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-38" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Join the Cloud Community*&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="290" y="1390" width="151" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-39" target="-TDUfPAsjnN3atFshsbn-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-39" target="-TDUfPAsjnN3atFshsbn-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-39" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Self Paced Online Training Platforms**&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="509" y="1390" width="151" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-42" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;a href=&quot;https://acloud.guru/&quot;&gt;A Cloud Guru&lt;/a&gt;***&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1350" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-43" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;a href=&quot;https://app.qa.com&quot;&gt;Cloud Academy&lt;/a&gt;***&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1470" width="190" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-50" value="&lt;div&gt;&lt;span&gt;* E-mail Pritesh&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;** E-mail SoftwareTrainingWorkingGroup&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;*** Organisation learning paths have been set up on these platforms&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="41" y="1588" width="380" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
