@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-04-09T10:14:21.270Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="SrSxdf1QkBVARNrbSkRL" version="12.9.3" type="github"><diagram id="Sj6mC85eFsHQs_d47GOQ" name="Page-1">1ZdLc5swEMc/Dcd4QAQ7HBPbadNJJpnxIclRQQqoBeQRIkA/fVdGPGV78iBNe7HZRVppf/vXA8tdJuU3gbfRDSc0tpBNSstdWQg5ztkc/pSnqj0L36sdoWBEN+ocG/abaqetvTkjNBs0lJzHkm2HzoCnKQ3kwIeF4MWw2TOPh6NucUgNxybAsem9Z0RGTV5zv3vxnbIwaoaee6f1mwQ3rXUqWYQJL3oud225S8G5rJ+SckljRa8BU/e7PPC2nZmgqXxNhyd2he/wPUePleTZyTz1yx8nZ3WUFxznOuMrMAsMIRVp+FnGPCc6A1k1XCKZxPDkWO4FwVlE1Rg2GEXEJM22OFDtCtAE+CDxrTKTMlQimZFnMsskFlKPTYWk5cGknBYViIzyhEpRQRPdwT1DdRetrwZ20RXL1xKMemVydTOs5RG2gTuA8KAZvoGnszBQUQKK0iYXMuIhT3G87rwXgucpaRF2ba4532rIP6mUlV4eOIfCuBe9EtRjqoGOY4R58VwE9EgCWtdQnpDKY4mi/XURNMaSvQwnMjlm35DtSmlVaTelQFKtdGAKM+GpykZglrI0tNxLozyZFPxXu7jREOxYus8xL4IIpDsjNGCZiq41vxlqfhJp2wNp+6a0Hds2td06pxc3MrBv6nUMk4I5Ifvm9nZ1vTYYdwJ3DvDqMcdPGY9zSc9FoAW/83bWqSqMUbUJiCN7SNyxPQP5Yg/xxacBN7fnFQuZxKrnJRfwe66iTCRpHuQJoEIHapTV/O0Z8qbh7QxxL/bs3Xtoe59G29xV9h9+/ylf5/SLATeHcw+weVqm5Fzd28BKeUr79wtnCBogiOpBH5o743FHz2vMVdl/uaoaq2TyoYkBz48dc2V2vZTR73RHBQMQVGjfhKdus9Dffez2SuodKemrT2c9wh1nu5ugFpSHhopy5yOp1InqXv276DjQYhTIGQWqQRiBdrJr0/6AEp1/V4lfK8SP3v/+jhCd0dbmo5n3PiUam+R493u3EsHsPu7q5t03srv+Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-09T10:24:46.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="A480ptc3AwoWE2AhOx7i" version="12.9.3" type="github">
+  <diagram id="Sj6mC85eFsHQs_d47GOQ" name="Page-1">
+    <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="biIaPaWo2Yytos-6n9xJ-8" value="I want to Cloud" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="382" y="20" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="biIaPaWo2Yytos-6n9xJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="biIaPaWo2Yytos-6n9xJ-9" target="biIaPaWo2Yytos-6n9xJ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="biIaPaWo2Yytos-6n9xJ-9" value="Do I need foundation training?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="380" y="90" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="biIaPaWo2Yytos-6n9xJ-12" target="-TDUfPAsjnN3atFshsbn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="biIaPaWo2Yytos-6n9xJ-12" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Start with MOODLE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="180" y="80" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Free online courses&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="biIaPaWo2Yytos-6n9xJ-18" value="Digital For All" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="10" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="biIaPaWo2Yytos-6n9xJ-19" value="Cloud" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="10" y="140" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="biIaPaWo2Yytos-6n9xJ-20" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="biIaPaWo2Yytos-6n9xJ-18" target="biIaPaWo2Yytos-6n9xJ-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="360" as="sourcePoint" />
+            <mxPoint x="570" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="biIaPaWo2Yytos-6n9xJ-21" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="biIaPaWo2Yytos-6n9xJ-19" target="biIaPaWo2Yytos-6n9xJ-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="92.5" as="sourcePoint" />
+            <mxPoint x="210" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-3" value="&lt;a href=&quot;https://acloud.guru/learn/intro-cloud-computing&quot;&gt;Introduction to Cloud Computing [A Cloud Guru]&lt;/a&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-5" value="&lt;a href=&quot;https://www.udemy.com/course/introduction-to-cloud-computing/&quot;&gt;Introduction to Cloud Academy [Udemy]&lt;/a&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="10" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-7" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.017;exitY=0.414;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-3" target="-TDUfPAsjnN3atFshsbn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="112.5" as="sourcePoint" />
+            <mxPoint x="200" y="152.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-TDUfPAsjnN3atFshsbn-8" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-TDUfPAsjnN3atFshsbn-5" target="-TDUfPAsjnN3atFshsbn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142.03999999999996" y="278.98" as="sourcePoint" />
+            <mxPoint x="190" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
